@@ -1,4 +1,4 @@
-fuction booksinfo(){
+fuction bookadd(){
 
 function for adding bookinfo to DB; 
 }
